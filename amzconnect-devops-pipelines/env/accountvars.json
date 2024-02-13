@@ -4,7 +4,7 @@
         "env": "dev",
         "branch": "develop",
         "enabled": true,
-        "account": "XXXXXXXXXXXX",
+        "account": "905418226202",
         "region": ["us-east-1", "us-west-2"],
         "app": "ACME"
     },
@@ -20,7 +20,7 @@
         "env": "prod",
         "branch": "main",
         "enabled": true,
-        "account": "XXXXXXXXXXXZ",
+        "account": "905418226202",
         "region": ["us-east-1", "us-west-2"],
         "app": "ACME"
     }]
