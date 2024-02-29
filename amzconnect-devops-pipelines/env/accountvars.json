@@ -20,7 +20,7 @@
         "env": "prod",
         "branch": "main",
         "enabled": true,
-        "account": "905418226202",
+        "account": "058264549561",
         "region": ["us-east-1", "us-west-2"],
         "app": "ACME"
     }]

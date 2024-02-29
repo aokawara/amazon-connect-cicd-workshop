@@ -2,8 +2,8 @@
     "env": "devops",
     "account": "905418226202",
     "region": "us-east-1",
-    "codestarArn": "arn:aws:kms:us-east-1:905418226202:key/ce2e6302-5b26-41a4-abca-702ef34285f8",
-    "repo": "aotestpipeline",
-    "owner": "anna.okawara@leidos.com-at-905418226202",
+    "codestarArn": "arn:aws:codestar-connections:us-east-1:905418226202:connection/bdbd8136-9ba9-403e-bb28-b057d2720cf0",
+    "repo": "amazon-connect-cicd-workshop",
+    "owner": "aokawara@hotmail.com",
     "email": "anna.okawara@leidos.com"
 }
